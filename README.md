@@ -10,6 +10,6 @@ Built from generic source (not ARES) with Linaro GCC 7.5.0 toolchain, since late
 ### EDIT: J7xelte available so far, more will come out later.
 
 ### Support:
-Telegram channel: https://t.me/nevaos
-Telegram group: https://t.me/neva7870
+Telegram channel: https://t.me/nevaos <br>
+Telegram group: https://t.me/neva7870 <br>
 Website: https://nevaos.ml
