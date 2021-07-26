@@ -1,0 +1,24 @@
+BATTERY LIFE ON J7XELTE
+
+TEST1
+ROM: NevaOS Pure10 v5 (ARM32)
+Kernel: DOZE variant
+Battery stats: About 60% degraded, 5 years old
+More: Tested with WiFi, Location, Sync, AOD, NFC, Dark Mode on in the whole process, AOD Brightness at 2nd level, Brightness is 30% (OneUI is very bright)
+SOT: 4 hours 30 minutes with consistent YouTube video playback
+Standby time: 1 full day, with screen off and AOD off
+Standby time #2: 16 hours, with AOD on
+
+
+TEST2
+ROM: CAOS R phh v310 GSI
+Vendor: H-Vendor v1
+Kernel: Stockish variant 
+Battery stats: Same as above
+More: Tested with WiFi, Location, Sync, AOD, NFC, AMOLED Dark Mode on in the whole process, Brightness is 78% (AOSP GSIs has lower brightness)
+SOT: 5 hours 20 minutes with consistent YouTube video playback
+Standby time: 19 hours with screen off and AOD off
+Standby time #2: 15 hours 30 minutes with AOD and DT2W on (AOSP DT2W)
+
+Note of TEST1: AOD is manually triggered by AODNotify, Official Samsung Always On Display version 5.1.39.13 used.
+Note of TEST2: AOD used is from AOSP, which relies on the Vendor Overlay. 
